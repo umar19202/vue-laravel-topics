@@ -1,8 +1,7 @@
 # Modern Laravel Frontend Ecosystem Roadmap
 ### Zero to Senior Laravel + Vue.js Full Stack Developer
 
-> **Last reviewed:** July 2026, against the current stable Vue/Tailwind/Pinia ecosystem. Updated for: Tailwind v4 CSS-first config, Pinia Colada, Storybook, frontend observability, typed OpenAPI clients, and Vapor Mode awareness. See the study-order note before Phase 4 for a TypeScript-earlier recommendation.
-
+> **Scope:** This roadmap covers the modern Laravel + Vue.js frontend ecosystem, reviewed against the current stable Vue, Tailwind, and Pinia ecosystem — including Tailwind v4's CSS-first configuration, Pinia Colada, Storybook, frontend observability, typed OpenAPI client generation, and Vapor Mode awareness. See the study-order note before Phase 4 for a recommended TypeScript-earlier learning sequence.
 ---
 
 # Phase 1 - JavaScript Essentials
